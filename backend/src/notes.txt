@@ -1,0 +1,3 @@
+Create migrations:
+
+npx knex migrate:make create_ongs
